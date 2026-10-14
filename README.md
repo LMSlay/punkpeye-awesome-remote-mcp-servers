@@ -1875,6 +1875,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
+- [TubeText Ad Intelligence](https://apify.com/tubetext/meta-ad-library-videos) `https://mcp.apify.com/?tools=fetch-actor-details,tubetext/meta-ad-library-videos,tubetext/video-ad-analyzer`
+  [![TubeText Ad Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-ad-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-ad-intelligence)
+  🔐 - A brand's Facebook/Instagram ads from Meta Ad Library, plus AI teardowns of Meta and YouTube video ads.
 - [VertoDigital](https://vertodigital.com) `https://mcp.vertodigital.com/mcp`
   [![VertoDigital MCP Server MCP connector](https://glama.ai/mcp/connectors/com.vertodigital/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vertodigital/mcp)
   🔓 - B2B pipeline marketing agency: match challenges to services, search case studies, read pages, send enquiries.
@@ -2028,6 +2031,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Treza](https://www.trezalabs.com/connect) `https://www.trezalabs.com/api/mcp`
   [![Treza MCP connector](https://glama.ai/mcp/connectors/io.github.treza-labs/treza/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.treza-labs/treza)
   🔐 - Video pipelines that script, render, narrate, caption and publish to YouTube and TikTok.
+- [TubeText TikTok Transcripts](https://apify.com/tubetext/tiktok-transcript) `https://mcp.apify.com/?tools=fetch-actor-details,tubetext/tiktok-transcript,tubetext/video-breakdown-ai`
+  [![TubeText TikTok Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-tiktok-transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-tiktok-transcripts)
+  🔐 - TikTok video transcripts (captions or Whisper) plus an AI hook, shot list and script breakdown of any video.
+- [TubeText YouTube Transcripts](https://apify.com/tubetext/youtube-transcript-fast) `https://mcp.apify.com/?tools=fetch-actor-details,tubetext/youtube-transcript-fast,tubetext/youtube-channel-analytics,tubetext/socialblade-scraper`
+  [![TubeText YouTube Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-youtube-transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-youtube-transcripts)
+  🔐 - YouTube transcripts from videos, Shorts, playlists or channels, plus channel analytics and Social Blade stats.
 - [txtreel](https://txtreel.com) `https://txtreel.com/mcp`
   [![txtreel MCP connector](https://glama.ai/mcp/connectors/com.txtreel/txtreel/badges/score.svg)](https://glama.ai/mcp/connectors/com.txtreel/txtreel)
   🔓 - Render iMessage, WhatsApp, Instagram DM and Reddit thread videos (1080x1920 MP4) or screenshots from a script.
