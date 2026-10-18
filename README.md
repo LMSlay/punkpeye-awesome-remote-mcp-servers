@@ -2432,6 +2432,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Treza](https://www.trezalabs.com/connect) `https://www.trezalabs.com/api/mcp`
   [![Treza MCP connector](https://glama.ai/mcp/connectors/io.github.treza-labs/treza/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.treza-labs/treza)
   🔐 - Video pipelines that script, render, narrate, caption and publish to YouTube and TikTok.
+- [TubeText YouTube Transcripts](https://apify.com/tubetext/youtube-transcript-fast) `https://mcp.apify.com/?tools=fetch-actor-details,tubetext/youtube-transcript-fast,tubetext/youtube-channel-analytics,tubetext/socialblade-scraper,tubetext/shot-by-shot-video-analysis`
+  [![TubeText YouTube Transcripts MCP connector](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-youtube-transcripts/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LMSlay/tubetext-youtube-transcripts)
+  🔐 - YouTube transcripts from videos, Shorts, playlists or channels, plus channel analytics and Social Blade stats.
 - [txtreel](https://txtreel.com) `https://txtreel.com/mcp`
   [![txtreel MCP connector](https://glama.ai/mcp/connectors/com.txtreel/txtreel/badges/score.svg)](https://glama.ai/mcp/connectors/com.txtreel/txtreel)
   🔓 - Render iMessage, WhatsApp, Instagram DM and Reddit thread videos (1080x1920 MP4) or screenshots from a script.
